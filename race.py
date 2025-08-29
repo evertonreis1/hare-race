@@ -20,9 +20,9 @@ def main():
     race_updated = threading.Condition()
 
     hare_names = {
-        0: 'Danilo',
-        1: 'Marcos Paulo',
-        2: 'Everton',
+        0: 'Everton Reis',
+        1: 'Riquelme Magalhães',
+        2: 'Gustavo Henrique',
         3: 'Tércio',
         4: 'Programador Web'
     }
